@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [Hamad Moh] 
 
 **English → Arabic game localizer** based in Saudi Arabia.
 I help indie developers bring their games to Arabic players.
