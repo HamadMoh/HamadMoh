@@ -1,4 +1,4 @@
-# Hi, I'm [Hamad Moh] 
+# Hi, I'm Hamad Moh
 
 **English → Arabic game localizer** based in Saudi Arabia.
 I help indie developers bring their games to Arabic players.
@@ -20,5 +20,5 @@ AI-assisted first draft, then my own review and play-testing.
 | Health | الصحة | Standard gaming term |
 
 ## Contact
-📧 [hamadsmohs@gmail.com]
+📧 hamadsmohs@gmail.com
 Free sample translation available on request.
